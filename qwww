@@ -1,0 +1,6 @@
+ssssssimport json
+
+      'Access-Control-Allow-Origin': '*'
+        },
+        'body': json.dumps({'message': 'Registration successful'})
+    }
